@@ -1,0 +1,31 @@
+.jumbotron
+{
+            max-width: 375px;
+            padding: 15px;
+            margin: 0 auto;
+            color: #bb2020;
+            margin-top: 40px;
+    
+}
+
+h2
+{
+    text-align: center;
+}
+
+#new_user
+{
+    margin-top: 10px;
+    text-align: center;
+}
+form{
+    background-color: black;
+}
+body{
+    background-color:  black;
+}
+
+p
+{
+    text-decoration-color: #1dc4b1;
+}
